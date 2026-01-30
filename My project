@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> This is my Personal Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Welcome to My Website</h1>
+<p>Hello! I am a student from Bangladesh.Right now,l an studying in class 12.I am also interested in modern technology specially Al technology</p>
+
+<a href="about.html">About Me</a> |
+<a href="contact.html">Contact</a>
+
+</body>
+</html>
