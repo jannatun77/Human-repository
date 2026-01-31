@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>About Me</h1>
+
+<p>
+I am currently studying in Class 12 and l am from Bangladesh.
+I am learning HTML and CSS and using GitHub to build projects.
+</p>
+
+<p>
+I want to improve my skills to prepare for international scholarships and get the best facilities.
+</p>
+
+<a href="index.html">Home</a>
+
+</body>
+</html>
